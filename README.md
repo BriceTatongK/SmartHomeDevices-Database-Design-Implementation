@@ -5,4 +5,4 @@
 design a relational database on Oracle MySQL DBMS that allows to store data relating to a system that manages a smart home (intelligent home). In addition to hosting the data, the database will be equipped with some operations and data analytics functions that have been implemented.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BriceTatong&repo=Relational-Database-Implementation)](https://github.com/anuraghazra/github-readme-stats)
